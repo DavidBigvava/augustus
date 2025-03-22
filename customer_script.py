@@ -193,5 +193,5 @@ def process_input(user_input):
 
 # Example usage
 if __name__ == "__main__":
-    query = "Show total sales by shipping mode"
+    query = "Show total sales by shipping modes"
     print(process_input(query))
