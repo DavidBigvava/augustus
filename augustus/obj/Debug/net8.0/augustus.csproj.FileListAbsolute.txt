@@ -1,0 +1,14 @@
+C:\Users\Davit\Desktop\PandasAI\Brutus.ai\augustus\bin\Debug\net8.0\augustus.exe
+C:\Users\Davit\Desktop\PandasAI\Brutus.ai\augustus\bin\Debug\net8.0\augustus.deps.json
+C:\Users\Davit\Desktop\PandasAI\Brutus.ai\augustus\bin\Debug\net8.0\augustus.runtimeconfig.json
+C:\Users\Davit\Desktop\PandasAI\Brutus.ai\augustus\bin\Debug\net8.0\augustus.dll
+C:\Users\Davit\Desktop\PandasAI\Brutus.ai\augustus\bin\Debug\net8.0\augustus.pdb
+C:\Users\Davit\Desktop\PandasAI\Brutus.ai\augustus\obj\Debug\net8.0\augustus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davit\Desktop\PandasAI\Brutus.ai\augustus\obj\Debug\net8.0\augustus.AssemblyInfoInputs.cache
+C:\Users\Davit\Desktop\PandasAI\Brutus.ai\augustus\obj\Debug\net8.0\augustus.AssemblyInfo.cs
+C:\Users\Davit\Desktop\PandasAI\Brutus.ai\augustus\obj\Debug\net8.0\augustus.csproj.CoreCompileInputs.cache
+C:\Users\Davit\Desktop\PandasAI\Brutus.ai\augustus\obj\Debug\net8.0\augustus.dll
+C:\Users\Davit\Desktop\PandasAI\Brutus.ai\augustus\obj\Debug\net8.0\refint\augustus.dll
+C:\Users\Davit\Desktop\PandasAI\Brutus.ai\augustus\obj\Debug\net8.0\augustus.pdb
+C:\Users\Davit\Desktop\PandasAI\Brutus.ai\augustus\obj\Debug\net8.0\augustus.genruntimeconfig.cache
+C:\Users\Davit\Desktop\PandasAI\Brutus.ai\augustus\obj\Debug\net8.0\ref\augustus.dll

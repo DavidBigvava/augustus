@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../../../anaconda3/envs/pandas_ai"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
